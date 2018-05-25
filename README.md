@@ -27,7 +27,7 @@ make
 ![the GUI of this project](https://github.com/yaoli1992/point_cloud_noise_system/blob/master/yao_data/Screenshot2.png)
 
 
-# select the method of point cloud noise process
+**select the method of point cloud noise process**
 
 **passthrough filter** 
 
